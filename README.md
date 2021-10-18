@@ -24,7 +24,7 @@ and, an optional openssl:
 6.	Make sure all .js files exist in <i>hls.js/dist</i> directory. If not, download them from the repository into the <i>dist</i> sub-directory.</br>
 7.	cmake . && make && sudo make install</br>
 </br>
-<img width="662" alt="install-complete" src="">
+<img width="662" alt="install-complete" src="https://github.com/itbuilder-net/v4l2rtspserver/blob/main/install-complete.PNG">
 </br></br>
 <p>Detailed Steps:</p>
 //TODO: 
