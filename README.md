@@ -23,7 +23,3 @@ and, an optional openssl:
 7.	cmake . && make && sudo make install</br>
 </br>
 <img width="662" alt="install-complete" src="https://github.com/itbuilder-net/v4l2rtspserver/blob/main/install-complete.PNG">
-</br></br>
-Detailed Steps:</br>
-//TODO: 
-
