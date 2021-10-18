@@ -4,6 +4,7 @@ This write-up is intended to help anyone who experienced problem while trying to
 ASSUMPTION:  The system is Bullseye-d ready.</br></br>
 ![image](https://user-images.githubusercontent.com/87738020/137815872-3b2521f1-8bc8-4717-b614-3bb43ad5c7b4.png)
 
+
 Source:  https://github.com/mpromonet/v4l2rtspserver </br>
 which requires the following libraries:
 <ul>
@@ -23,8 +24,8 @@ and, an optional openssl:
 6.	Make sure all .js files exist in <i>hls.js/dist</i> directory. If not, download them from the repository into the <i>dist</i> sub-directory.</br>
 7.	cmake . && make && sudo make install</br>
 </br>
-<img width="662" alt="install-complete" src="https://github.com/itbuilder-net/v4l2rtspserver/blob/main/install-complete.PNG">
+<img width="662" alt="install-complete" src="">
 </br></br>
-<p>Detailed Steps:</br></p>
+<p>Detailed Steps:</p>
 //TODO: 
 
