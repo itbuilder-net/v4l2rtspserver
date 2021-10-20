@@ -1,7 +1,7 @@
 # v4l2rtspserver
 This write-up is intended to help anyone who experienced problem while trying to install v4l2rtspserver written by Michel Promonet on a new Debian-based Raspbian OS Bullseye. Don’t give up!
 
-ASSUMPTION:  The system is Bullseye-d ready.</br></br>
+ASSUMPTION:  The system is Bullseye-d ready. Mine is a Raspberry Pi Model B Rev 2</br></br>
 <img width="561" alt="Bullseye-ready" src="https://github.com/itbuilder-net/v4l2rtspserver/blob/main/Bullseye-ready.PNG">
 
 Source:  https://github.com/mpromonet/v4l2rtspserver </br>
