@@ -18,8 +18,6 @@ and, an optional openssl:
 2.	git clone https://github.com/mpromonet/v4l2rtspserver.git</br>
 3.	cd v4l2rtspserver</br>
 4.	git clone https://github.com/mpromonet/libv4l2cpp.git v4l2wrapper</br>
-5.	git clone https://github.com/video-dev/hls.js.git</br>
-6.	Make sure all .js files are present in the <i>hls.js/dist</i> directory. If not, download them from the repository into the <i>dist</i> sub-directory.</br>
-7.	cmake . && make && sudo make install</br>
+5.	cmake . && make && sudo make install</br>
 </br>
 <img width="662" alt="install-complete" src="https://github.com/itbuilder-net/v4l2rtspserver/blob/main/install-complete.PNG">
