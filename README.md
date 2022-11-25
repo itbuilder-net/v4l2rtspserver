@@ -20,19 +20,29 @@ cmake . && make && sudo make install
 
 ## Create a service to start the rtspserver automatically
 
-copy the script and the .service file:
+Copy the script, you can also set the resolution and other parameters in this file:
+
 `sudo cp control_v4l2rtpserver.sh /usr/sbin`
+
+Copy the .service file:
+
 `sudo cp v4l2rtspserver.service /etc/systemd/system`
 
-reload the services:
+Reload the services:
 
 `sudo systemctl daemon-reload`
 
-start the service and check its status:
+Start the service and check its status:
 
 `sudo systemctl start v4l2rtspserver`
 `sudo systemctl status v4l2rtspserver`
 
-if the service started successfully enable it for running at startup:
+If the service started successfully enable it for running at startup:
 
 `sudo systemctl enable v4l2rtspserver`
+
+The rtspserver should be available now at:
+
+[rtsp://raspberrypi.local:8554](rtsp://raspberrypi.local:8554)
+
+Check with VLC or other media players
