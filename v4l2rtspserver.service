@@ -1,0 +1,8 @@
+[Unit]
+Description=v4l2rtspserver service
+
+[Service]
+ExecStart=/usr/sbin/control_v4l2rtspserver.sh
+
+[Install]
+WantedBy=multi-user.target
