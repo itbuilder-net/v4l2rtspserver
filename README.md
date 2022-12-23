@@ -20,3 +20,5 @@ and, an optional openssl:
 5.	git clone https://github.com/mpromonet/libv4l2cpp.git</br>
 6.	cmake . && make && sudo make install</br>
 </br>
+Streaming: <br>
+See "Start video stream" at https://siytek.com/raspberry-pi-rtsp-to-home-assistant/
