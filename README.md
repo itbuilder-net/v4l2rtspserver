@@ -25,7 +25,7 @@ and, an optional openssl:
 6.	cmake . && make && sudo make install<br><br>
 <strong>Streaming:</strong><br>
 See "Start video stream" at https://siytek.com/raspberry-pi-rtsp-to-home-assistant/<br><br>
-<strong>BEST! RSTP server? (Pi Model B Rev 2 based)</strong></br>
+<strong>BEST! RTSP server? (Pi Model B Rev 2 based)</strong></br>
 <img src="https://github.com/itbuilder-net/v4l2rtspserver/blob/main/v4l2rtspserver-live.png"><br>
 <strong>Config failed:</strong></br>
 <img src="https://github.com/itbuilder-net/v4l2rtspserver/blob/main/clone-failed.png">
