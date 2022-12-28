@@ -4,8 +4,6 @@ This write-up is intended to help anyone who has experienced problem while tryin
 System used: <ul>
 <li>Raspberry Pi Model B Rev 2</li>
 <li> Zero W</li></ul></br></br>
-
-
 Source:  https://github.com/mpromonet/v4l2rtspserver </br>
 which requires the following libraries:
 <ul>
