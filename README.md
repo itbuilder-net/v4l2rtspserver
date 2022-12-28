@@ -1,10 +1,11 @@
 # v4l2rtspserver
 This write-up is intended to help anyone who has experienced problem while trying to install v4l2rtspserver written by Michel Promonet on a new Debian-based Raspbian OS Bullseye.
 
-System used: <ul>
-<li>Raspberry Pi Model B Rev 2</li>
-<li> Zero W</li></ul><br>
-Source:  https://github.com/mpromonet/v4l2rtspserver </br>
+System used: 
+<ul>
+  <li>Raspberry Pi Model B Rev 2</li>
+  <li> Zero W</li></ul>
+Source:  https://github.com/mpromonet/v4l2rtspserver<br>
 which requires the following libraries:
 <ul>
   <li>liblivemedia-dev</li>
