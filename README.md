@@ -4,7 +4,8 @@ This write-up is intended to help anyone who has experienced problem while tryin
 System used: 
 <ul>
   <li>Raspberry Pi Model B Rev 2</li>
-  <li> Zero 1 W</li></ul>
+  <li> Zero 1 W</li>
+  <li> Pi Camera v1.1</li></ul>
 Source:  https://github.com/mpromonet/v4l2rtspserver<br>
 which requires the following libraries:
 <ul>
