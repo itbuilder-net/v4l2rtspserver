@@ -20,13 +20,13 @@ and, an optional openssl:
 1.	sudo apt install liblivemedia-dev liblog4cpp5-dev libasound2-dev libssl-dev</br>
 2.	git clone https://github.com/mpromonet/v4l2rtspserver.git</br>
 3.	cd v4l2rtspserver</br>
-4.	git clone https://github.com/video-dev/hls.js.git (see below for error)</br>
-5.	git clone https://github.com/mpromonet/libv4l2cpp.git (see below for error)</br>
+4.	git clone https://github.com/video-dev/hls.js.git (do this if config failed as shown below)</br>
+5.	git clone https://github.com/mpromonet/libv4l2cpp.git (do this if config failed as shown below)</br>
 6.	cmake . && make && sudo make install</br></br>
 Streaming: <br>
-See "Start video stream" at https://siytek.com/raspberry-pi-rtsp-to-home-assistant/<br>
+See "Start video stream" at https://siytek.com/raspberry-pi-rtsp-to-home-assistant/<br><br>
 Best RTSP server?<br>
 <img src="https://github.com/itbuilder-net/v4l2rtspserver/blob/main/v4l2rtspserver-live.png"><br>
-Compile error:<br>
+Config failed:<br>
 <img src="https://github.com/itbuilder-net/v4l2rtspserver/blob/main/clone-failed.png">
 
