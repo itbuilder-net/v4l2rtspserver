@@ -1,7 +1,10 @@
 # v4l2rtspserver
-This write-up is intended to help anyone who experienced problem while trying to install v4l2rtspserver written by Michel Promonet on a new Debian-based Raspbian OS Bullseye.
+This write-up is intended to help anyone who has experienced problem while trying to install v4l2rtspserver written by Michel Promonet on a new Debian-based Raspbian OS Bullseye.
 
-Running on a Raspberry Pi Model B Rev 2 and Zero W</br></br>
+System used: <ul>
+<li>Raspberry Pi Model B Rev 2</li>
+<li> Zero W</li></br></br>
+</ul>
 
 Source:  https://github.com/mpromonet/v4l2rtspserver </br>
 which requires the following libraries:
